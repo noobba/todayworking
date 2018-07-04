@@ -1,9 +1,3 @@
-# OY VR STORE:올리브영 가상 매장
-
-## Description
-
-### a-frame 기반 vr 매장
-
 # TODAYWORKING
 ## 오늘은 출근킹 사용법
 1) data 폴더에 data.txt 파일 생성한다.
