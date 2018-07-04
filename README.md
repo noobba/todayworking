@@ -1,4 +1,4 @@
-# TODAYWORKING:오늘은 출근킹
+# TODAY WORKING:오늘은 출근킹
 ## 사용법
 1) data 폴더에 data.txt 파일 생성한다.
 2) data.txt 파일 안에 "@"를 구분자로 한 데이터를 입력한다.
