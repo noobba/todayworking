@@ -34,5 +34,6 @@
     ./todayworking.exe
 
 ## 실행화면
-![image](https://user-images.githubusercontent.com/40586079/119212318-8455ce80-baf2-11eb-8314-3c89e0c0e5f6.png)
+![image](https://user-images.githubusercontent.com/40586079/119212511-d9461480-baf3-11eb-887a-a6ea750ac825.png)
+
 
